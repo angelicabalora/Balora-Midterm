@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Balora-Midterm/static/css/main.64c80700.css",
+    "main.js": "/Balora-Midterm/static/js/main.7bcc2f0f.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Balora-Midterm/static/js/453.ad6eb26e.chunk.js",
+    "static/media/bg1.jpeg": "/Balora-Midterm/static/media/bg1.ec5febfa9514661c1734.jpeg",
+    "index.html": "/Balora-Midterm/index.html",
+    "main.64c80700.css.map": "/Balora-Midterm/static/css/main.64c80700.css.map",
+    "main.7bcc2f0f.js.map": "/Balora-Midterm/static/js/main.7bcc2f0f.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Balora-Midterm/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64c80700.css",
+    "static/js/main.7bcc2f0f.js"
+  ]
+}
